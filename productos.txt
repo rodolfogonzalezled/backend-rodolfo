@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "NBA",
+        "price": 2000,
+        "thumbnail": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3002/Eaq9uyUlyLZK8L5xTlsPl0rM.png"
+    },
+    {
+        "id": 2,
+        "title": "FIFA",
+        "price": 3000,
+        "thumbnail": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/zDXM9K2cQiq0vKTDwF0TkAor.png"
+    },
+    {
+        "id": 3,
+        "title": "SPIDERMAN",
+        "price": 4000,
+        "thumbnail": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/zDXM9K2cQiq0vKTDwF0TkAor.png"
+    }
+]
